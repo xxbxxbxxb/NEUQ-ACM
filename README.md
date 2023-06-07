@@ -1,2 +1,2 @@
-### NEUQ-ACM
+ NEUQ-ACM
 # weekly-23
